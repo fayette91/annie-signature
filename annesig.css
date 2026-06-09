@@ -31,7 +31,7 @@
   
 }
 
-@font-face {font-family: 'Mavera';src:url('https://dl.dropbox.com/scl/fi/ildolgwxivjc5nybu2emi/Mavera-Demo-Brush.ttf?rlkey=y26e4nf6hi58thhmeqbthwi00&st=mp0uwhgq&dl=0');}
+@font-face {font-family: 'Mavera';src:url('https://cdn.jsdelivr.net/gh/fayette91/annie-signature@main/MaveraDemoBrush.ttf');}
 
 .ann-s-bx {width: 300px; height: 180px; margin: auto; position: relative; border: 10px solid var(--bordd-2); outline: 2px solid var(--g4); outline-offset: -10px; transition: all ease-in-out 0.7s; overflow: hidden}
 
